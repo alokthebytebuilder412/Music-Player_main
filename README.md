@@ -17,12 +17,15 @@ Music-Player/index.html(Main HTML file ) , style.css (Styling with CSS) , script
 
 🚀 How to Use 
 
-1. Clone this repository:  bash
-   git clone https://github.com/alokthebytebuilder412/Music-Player.git
-   
-2.Open the index.html file in your browser.
+1. Clone this repository:
 
-3.Enjoy the music!
+   ```bash
+   git clone https://github.com/alokthebytebuilder412/Music-Player.git
+   ```
+
+2. Open the `index.html` file in your browser.
+
+3. Enjoy the music!
 
 🛠️ Technologies Used
 
