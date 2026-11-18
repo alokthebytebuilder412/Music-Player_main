@@ -3,7 +3,7 @@
 A sleek and interactive Music Player built using HTML, CSS, and JavaScript, designed to provide an engaging audio playback experience. 
 
 🔗 Demo  
-Check out the live demo here : (https://alokupadhyay0412.github.io/Music-Player/)
+Check out the live demo here : (https://alokthebytebuilder412.github.io/Music-Player_main/)
 
 ✨ Features  
 - Play/Pause: Seamless audio playback control.  
@@ -18,7 +18,7 @@ Music-Player/index.html(Main HTML file ) , style.css (Styling with CSS) , script
 🚀 How to Use 
 
 1. Clone this repository:  bash
-   git clone https://github.com/alokupadhyay0412/Music-Player.git
+   git clone https://github.com/alokthebytebuilder412/Music-Player.git
    
 2.Open the index.html file in your browser.
 
